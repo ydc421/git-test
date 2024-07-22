@@ -1,5 +1,7 @@
 def greet():
     print("Hello, Welcome to Jaebin's Branch")
+    print("Hello, Welecom to JunhoBaek Branch~🦥")
+    print("Hello, Welcome to JunhoKim Branch")
     print("Hello from the main branch")
 
 def add(a, b):
